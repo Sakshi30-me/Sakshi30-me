@@ -24,7 +24,7 @@ I aim to build a strong foundation for an entry-level SOC Analyst role.
 ## Certifications
 
 - Microsoft Cybersecurity Analyst Professional Certificate  
-- CCST Cybersecurity (Cisco) – In Progress  
+- CCST Cybersecurity (Cisco) 
 - Practical labs via TryHackMe
 
 ---
@@ -80,17 +80,10 @@ Each project is documented with a focus on **how a security analyst thinks**, no
 
 ## LinkedIn Learning Series
 
-I am also documenting my cybersecurity journey through a structured LinkedIn content series where I simplify key concepts for better understanding and revision.
+I share cybersecurity carousel posts covering SOC concepts, threat detection, incident response, and practical learning notes.
 
-Topics include:
-- SOC fundamentals explained simply  
-- Real-world cyberattack breakdowns  
-- Log analysis basics  
-- MITRE ATT&CK techniques  
-- Incident response workflow  
-- Hands-on lab explanations from TryHackMe  
-
-This helps me strengthen my understanding while sharing knowledge consistently.
+🔗 View My LinkedIn Content:
+https://www.linkedin.com/in/sakshi-maurya-824931302/
 
 ---
 
@@ -102,8 +95,10 @@ To develop into a SOC Analyst capable of monitoring systems, detecting threats, 
 
 ## Connect
 
-GitHub: https://github.com/Sakshi30-me  
-Linkedin: https://www.linkedin.com/in/sakshi-maurya-824931302/
----
+🔹 GitHub Portfolio  
+https://github.com/Sakshi30-me
+
+🔹 LinkedIn Profile  
+https://www.linkedin.com/in/sakshi-maurya-824931302/
 
 *Focused on building practical cybersecurity skills through continuous learning, analysis, and real-world simulations.*
