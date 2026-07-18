@@ -133,4 +133,10 @@ Alongside building hands-on projects, I actively share cybersecurity knowledge t
 
 ---
 
+## 👩‍💻 About the Author
+
+**Sakshi Maurya** is a cybersecurity professional focused on Security Operations (SOC), Blue Team methodologies, threat detection, digital forensics, and defensive security. This GitHub profile documents practical cybersecurity investigations, hands-on labs, and security research as part of a continuously growing cybersecurity portfolio.
+
+---
+
 > *Focused on continuous learning, practical cybersecurity investigations, knowledge sharing, and building real-world defensive security skills.*
