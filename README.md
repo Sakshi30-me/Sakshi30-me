@@ -1,104 +1,136 @@
-# Hi, I'm Sakshi Maurya
+# Hi, I'm Sakshi Maurya 👋
 
-Cybersecurity | SOC Operations | Blue Team | Digital Forensics | Threat Detection
+### Cybersecurity | Security Operations (SOC) | Blue Team | Threat Detection | Digital Forensics
 
----
+I'm passionate about cybersecurity, with a focus on **Security Operations (SOC)**, **Threat Detection**, **Digital Forensics & Incident Response (DFIR)**, and **Blue Team Operations**.
 
-## About Me
+I investigate security events, analyze attacker behavior, and document hands-on cybersecurity projects that reflect real-world defensive security practices. My work combines technical investigation with structured documentation, emphasizing incident analysis, threat detection, MITRE ATT&CK mapping, security frameworks, and practical SOC workflows.
 
-I’m a final-year BCA student focused on building practical, job-ready skills in cybersecurity. My core interest lies in Security Operations (SOC), Digital Forensics and Incident Response (DFIR), and Threat Detection.
+Through continuous learning, hands-on labs, and security research, I build projects covering phishing analysis, digital forensics, Windows and Linux security, network security, Microsoft Sentinel, Microsoft Defender XDR, Azure Security, incident response, and security documentation.
 
-I focus on understanding how real-world security teams detect, investigate, and respond to cyber threats using logs, alerts, and security tools in enterprise environments.
-
-My learning approach is structured around:
-- Hands-on cybersecurity labs  
-- Real-world attack and detection scenarios  
-- Log analysis and incident investigation  
-- Security tools and frameworks exposure  
-- Certification-based learning  
-
-I aim to build a strong foundation for an entry-level SOC Analyst role.
+I believe in learning by investigating, documenting, and sharing knowledge to strengthen practical cybersecurity skills.
 
 ---
 
-## Certifications
+## 🔭 Current Focus
 
-- Microsoft Cybersecurity Analyst Professional Certificate  
-- CCST Cybersecurity (Cisco) 
-- Practical labs via TryHackMe
-
----
-
-## Skills
-
-### SOC & Security Operations
-- Log analysis (Windows & Linux)
-- Alert investigation & triaging
-- Incident response basics
-- Threat detection concepts
-
-### Digital Forensics
-- Disk imaging fundamentals  
-- Evidence integrity & hashing  
-- File system analysis  
-- Investigation workflow understanding  
-
-### Networking & Systems
-- TCP/IP fundamentals  
-- DNS, HTTP/HTTPS basics  
-- Windows & Linux fundamentals  
-- Packet-level understanding  
-
-### Scripting
-- Python for basic security automation  
-- Log parsing fundamentals  
+* Security Operations Center (SOC)
+* Threat Detection & Incident Response
+* Phishing Analysis
+* Digital Forensics
+* Microsoft Sentinel (SIEM)
+* Microsoft Defender XDR
+* Microsoft Azure Security
+* MITRE ATT&CK
+* Detection Engineering
+* Security Documentation
 
 ---
 
-## Practical Focus
+## 🛠️ Technical Skills
 
-- SOC monitoring scenarios  
-- Security incident simulations  
-- Threat behavior analysis  
-- MITRE ATT&CK-based learning  
-- Detection and investigation workflows  
+### Security Operations
+
+* Alert Triage
+* Security Monitoring
+* Log Analysis
+* Incident Investigation
+* Threat Detection
+* IOC Analysis
+
+### Cloud & Microsoft Security
+
+* Microsoft Sentinel
+* Microsoft Defender XDR
+* Microsoft Azure
+* Microsoft Entra ID
+
+### Operating Systems
+
+* Windows Security
+* Linux Security
+
+### Networking
+
+* TCP/IP
+* DNS
+* HTTP/HTTPS
+* Network Traffic Analysis
+
+### Security Tools
+
+* Wireshark
+* Nmap
+* Burp Suite
+* Cisco Packet Tracer
+
+### Frameworks
+
+* MITRE ATT&CK
+* NIST Cybersecurity Framework (CSF)
+* ISO/IEC 27001
+* Zero Trust
 
 ---
 
-## Projects & GitHub Work
+## 📂 Portfolio Highlights
 
-My repositories include:
-- Digital forensics lab writeups  
-- SOC-style investigation scenarios  
-- Network traffic analysis practice  
-- Security concepts documentation  
-- Basic automation scripts  
+My GitHub repositories document practical cybersecurity investigations and defensive security projects, including:
 
-Each project is documented with a focus on **how a security analyst thinks**, not just technical output.
+* Security Operations (SOC) Investigation Case Studies
+* Phishing Email Analysis
+* Digital Forensics Investigations
+* Linux & Windows Security Labs
+* Network Security Analysis
+* Incident Response
+* Detection Engineering
+* Security Playbooks
+* Security Documentation
 
----
+Each project is structured to include:
 
-## LinkedIn Learning Series
-
-I share cybersecurity carousel posts covering SOC concepts, threat detection, incident response, and practical learning notes.
-
-🔗 View My LinkedIn Content:
-https://www.linkedin.com/in/sakshi-maurya-824931302/
-
----
-
-## Career Objective
-
-To develop into a SOC Analyst capable of monitoring systems, detecting threats, and contributing effectively to incident response teams in real-world environments.
+* Investigation Methodology
+* Technical Analysis
+* MITRE ATT&CK Mapping
+* SOC Perspective
+* GRC Perspective
+* Risk Assessment
+* Analyst Reflection
 
 ---
 
-## Connect
+## 📜 Certifications
 
-🔹 GitHub Portfolio  
-https://github.com/Sakshi30-me
+* Microsoft Cybersecurity Analyst Professional Certificate
+* Cisco Certified Support Technician (CCST) – Cybersecurity
+* TryHackMe Practical Labs
 
-🔹 LinkedIn Profile  
-https://www.linkedin.com/in/sakshi-maurya-824931302/
+---
 
-*Focused on building practical cybersecurity skills through continuous learning, analysis, and real-world simulations.*
+## 🌐 Knowledge Sharing
+
+Alongside building hands-on projects, I actively share cybersecurity knowledge through LinkedIn by publishing educational carousel posts, investigation breakdowns, practical lab insights, and learning notes covering:
+
+* Security Operations (SOC)
+* Threat Detection
+* Incident Response
+* Digital Forensics
+* Microsoft Sentinel
+* Microsoft Defender XDR
+* Azure Security
+* MITRE ATT&CK
+* Security Monitoring
+
+---
+
+## 🤝 Connect With Me
+
+**GitHub Portfolio**
+🔗 https://github.com/Sakshi30-me
+
+**LinkedIn**
+🔗 https://www.linkedin.com/in/sakshi-maurya-824931302/
+
+---
+
+> *Focused on continuous learning, practical cybersecurity investigations, knowledge sharing, and building real-world defensive security skills.*
